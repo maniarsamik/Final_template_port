@@ -171,7 +171,7 @@ function initCooper() {
     var e = $(".single-carousel");
     e.owlCarousel({
         margin: 0,
-        items: 3,
+        items: 2,
         smartSpeed: 1300,
         loop: true,
         dots: false,
@@ -184,7 +184,7 @@ function initCooper() {
                 items: 2
             },
             1e3: {
-                items: 3
+                items: 2
             }
         }
     });
